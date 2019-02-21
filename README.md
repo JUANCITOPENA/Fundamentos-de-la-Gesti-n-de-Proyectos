@@ -1,5 +1,4 @@
-# Fundamentos-de-la-Gesti-n-de-Proyectos
-Fundamentos de la Gestión de Proyectos
+
 # Fundamentos de la Gestión de Proyectos
 
 <!-- omit in toc -->
